@@ -1,0 +1,4 @@
+rootProject.name = 'trade.design'
+include 'question2'
+include 'findAvgSal'
+
